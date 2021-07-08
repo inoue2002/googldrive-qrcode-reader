@@ -1,0 +1,25 @@
+{
+  "name": "googldrive-qrcode-reader",
+  "version": "1.0.0",
+  "description": "GdriveにアップロードされたQRコードを解析するNode.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inoue2002/googldrive-qrcode-reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inoue2002/googldrive-qrcode-reader/issues"
+  },
+  "homepage": "https://github.com/inoue2002/googldrive-qrcode-reader#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jimp": "^0.16.1",
+    "qrcode-reader": "^1.0.4"
+  }
+}
