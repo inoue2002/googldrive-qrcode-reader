@@ -1,4 +1,4 @@
-# googldrive-qrcode-reader
+# googledrive-qrcode-reader
 GdriveにアップロードされたQRコードを解析するNode.js
 
 ```
